@@ -14,3 +14,5 @@ test push
 
 test for pull with --rebase 
 test for pull with --rebase 2
+
+moan's feature 
