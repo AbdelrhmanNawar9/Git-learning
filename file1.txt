@@ -10,3 +10,6 @@ mona
 ahmed work 
 
 test push
+
+
+test for pull with --rebase 
